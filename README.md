@@ -2,7 +2,9 @@
 
 Drop a GitHub repo URL or local path and get architecture, run guidance, risks, and actionable issues.
 
-![RepoSherlock CLI Preview](docs/assets/preview.gif)
+## Live CLI Preview
+
+![RepoSherlock CLI Preview](docs/assets/cli-reposherlock.gif)
 
 ## Why RepoSherlock
 
